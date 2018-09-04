@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\dev\workspace\CoinWatchdog\target\scala-2.12\coinwd_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala\watchdog\monitor\Bitcoin$Example$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala\watchdog\monitor\Bitcoin$Example$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala\watchdog\monitor\Bitcoin$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala\watchdog\monitor\Bitcoin$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala\watchdog[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala\watchdog[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala\watchdog\monitor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala\watchdog\monitor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala\watchdog\monitor\Bitcoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala\watchdog\monitor\Bitcoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala\watchdog\monitor\Bitcoin$Example.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala\watchdog\monitor\Bitcoin$Example.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main\scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\dev\workspace\CoinWatchdog\target\scala-2.12\classes\main\scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,43 @@
+libraryDependencies ++= Seq(
+  "com.typesafe.akka" %% "akka-http" % "10.1.4",
+  "com.typesafe.akka" %% "akka-http-testkit" % "10.1.4" % Test
+reload
+help
+scalaVersion
+session save
+set ThisBuild / scalaVersion := "2.12.6"
+session save
+reload
+erload
+reload
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+reload
+eclipse
+sbt
+compile
+run
+compile
+run
+help
+tasks
+runMain Main
+reload
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+exit
